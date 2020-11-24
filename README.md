@@ -1,6 +1,6 @@
 # Memo v1.0
 
- A Personal Memorizing App For Chinise : )
+ A Personal Memorizing App For Chinise Buddies. : )
 
 ## Introduction:
 
@@ -10,7 +10,7 @@ Memo is a Memorizing App written in C#  with multiple features like translation,
 
 ## Requirements：
 
-1) Visual Studio.
+1)  Visual Studio.
 
 2）Windows system
 
@@ -20,7 +20,7 @@ Memo is a Memorizing App written in C#  with multiple features like translation,
 
 ## Usage:
 
-Download this repo or folk to your local computer.
+Download this repo or folk to your local computer. Open the project with visual studio.
 
 
 
