@@ -2,13 +2,13 @@
 
  A Personal Memorizing App For Chinise : )
 
-#### Introduction:
+## Introduction:
 
 Hi, there. 
 
 Memo is a Memorizing App written in C#  with multiple features like translation,collecting New words,Import custom vocabulary etc. This Demo is a Course Project of《可视化程序设计》.
 
-#### Requirements：
+## Requirements：
 
 1) Visual Studio.
 
@@ -18,13 +18,13 @@ Memo is a Memorizing App written in C#  with multiple features like translation,
 
 
 
-#### Usage:
+## Usage:
 
 Download this repo or folk to your local computer.
 
 
 
-#### Future Works:
+## Future Works:
 
 1. Finish User Manual.
 2. Add New feature that Remind user Memorizing words as the time scheduled by Forgetting Curve.
@@ -32,7 +32,7 @@ Download this repo or folk to your local computer.
 
 
 
-#### cooperation:
+## cooperation:
 
 If you have any queations, don’t hesitate to Open a issue. 
 
